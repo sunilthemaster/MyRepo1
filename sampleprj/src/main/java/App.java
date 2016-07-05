@@ -8,7 +8,7 @@ public class App {
         if(intIndex == - 1){
             System.out.println("Hello not found");
         }else{
-            System.out.println("Found Hello at index "
+            System.out.println("Found hello at index "
                     + intIndex);
         }
     }
