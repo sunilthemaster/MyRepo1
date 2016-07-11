@@ -12,6 +12,8 @@
         <module>subprj1</module>
         <module>subprj2</module>
     </modules>
-
+         <prerequisites> 
+              <maven>2.2.1</maven> 
+         </prerequisites> 
 
 </project>
