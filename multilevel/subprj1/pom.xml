@@ -17,21 +17,6 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>jigsaw-interfaces</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>jigsaw-utility</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>jigsaw-entitymanager-activities</artifactId>
-			<version>${project.version}</version>
-		</dependency>
 		<!-- External Dependencies -->
 		<dependency>
 			<groupId>junit</groupId>
